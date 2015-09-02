@@ -8,6 +8,8 @@
 
 edit: 
 this is a second commit!
+
+and this is a third!
 Hi there! Welcome to Cloud9 IDE!
 
 To get you started, create some files, play with the terminal,
